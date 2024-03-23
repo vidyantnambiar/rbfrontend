@@ -1,0 +1,83 @@
+
+[
+{
+
+"name":"Oryx Homes",
+
+"imageurls":[
+
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/478338630.jpg?k=68d9218fc0522a213024e31a8ccfea8920c3523483053049d3125c21ad1be482&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1024x768/482432467.jpg?k=0fb3bdb9d3f2d35387df07373a5288b6e5b7ca4de25569eeb0f7eed1ec15bbed&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/476917174.jpg?k=4a469e9cfbc0a43b8cddff7ed5a3de2709f1deae3084ac6217e8c58db29c173b&o=&hp=1"
+
+],
+
+"rentperday":2500,
+
+"type":"Delux",
+
+"maxcount":3,
+
+"phonenumber":9914548263,
+
+"currentbookings":[
+
+],
+
+"description":"Greenviews Oryx, chittethukara, kakkanad, kochi, 682030 Kakkanad, India"
+
+},
+
+{
+"name":"Olive Eva",
+
+"imageurls":[
+
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/31565884.jpg?k=e317b60d56fec6a8f25a9c32de652ae463a4d8149095da8e217dc83a0a800e57&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/31565879.jpg?k=3ca0cd971a7c01dcd993a33182d05d35b772eb86f9ac4e1b5612b1939f09335e&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/31565894.jpg?k=1a5ba8077ad5a8c674a00c794da2d86b4d04739795c668ba1ad9531dcb4b3cb9&o=&hp=1"
+
+],
+
+"rentperday":4000,
+
+"type":"non delux",
+
+"maxcount":2,
+
+"phonenumber":9645325780,
+
+"currentbookings":[
+
+],
+
+"description":" Opp Infopark, 682030 Kakkanad, India "
+
+},
+{
+"name":"Ginger Kochi",
+
+"imageurls":[
+
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/348747143.jpg?k=48bdbb230d44b23012b6ac4a8f84e1db8d4d77bf3b09b472fdac40101409c2e4&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/348747194.jpg?k=d2bf4b3d8db07f63223a9dce444ade97287b923e771d0dea1c7fbe7163f61e27&o=&hp=1",
+"https://cf.bstatic.com/xdata/images/hotel/max1280x900/347568893.jpg?k=98cfdf2fac63e4d819ca1ec4f5aecb545b76f4d34d2e5c3f37a74e083f861380&o=&hp=1"
+
+],
+
+"rentperday":4000,
+
+"type":"non delux",
+
+"maxcount":2,
+
+"phonenumber":9645325780,
+
+"currentbookings":[
+
+],
+
+"description":" National Highway 544H Near CUSAT Metro Station South Kalamassery Kochi, 682033 Cochin, India "
+
+}
+]

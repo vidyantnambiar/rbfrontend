@@ -34,7 +34,7 @@ function Header() {
                             </Dropdown.Toggle>
                       
                             <Dropdown.Menu>
-                              <Dropdown.Item href="#/mybookings">Bookings</Dropdown.Item>
+                              <Dropdown.Item href="#/mybookings">My Bookings</Dropdown.Item>
                               <Dropdown.Item href="#/logout" onClick={logout}>Log out</Dropdown.Item>
                              
                             </Dropdown.Menu>

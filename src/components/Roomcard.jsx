@@ -24,9 +24,19 @@ export function Roomcard({ room ,fromdate,todate}) {
             <p>Phone Number:{room.phonenumber}</p>
             <p>Type:{room.type}</p></h6>
           <div style={{ float: "right" }}>
-            <Link to={`/book/${room._id}/${fromdate}/${todate}`}>
-              <button className='btn btn-primary me-2'>Book Now</button>
-            </Link>
+
+{(fromdate&&todate)&&(
+  
+
+<Link to={`/book/${room._id}/${fromdate}/${todate}`}>
+<button className='btn btn-primary me-2'>Book Now</button>
+</Link>
+
+)}
+
+
+
+          
             <button className='btn btn-primary' onClick={handleShow }>View Details</button>
             <Modal show={show} onHide={handleClose} className='modal mt-5 p-5' >
         <Modal.Header closeButton>
